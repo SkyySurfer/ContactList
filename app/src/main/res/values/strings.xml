@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyContactList</string>
+    <string name="need_permissions">You need to give permission to read contacts!</string>
+    <string name="search_hint">Type name or number</string>
+</resources>
